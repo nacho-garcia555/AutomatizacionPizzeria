@@ -1,0 +1,923 @@
+fecha,producto,precio,cantidad
+2026-09-07,Margarita,100.5,1
+2026-09-07,Cuatro quesos,12.5,2
+2026-09-07,Pepperoni,11.0,2
+2026-09-07,Margarita,9.5,1
+2026-09-07,Hawaiana,10.5,4
+2026-09-07,Margarita,9.5,1
+2026-09-07,Margarita,9.5,2
+2026-09-07,Pepperoni,11.0,1
+2026-09-07,Hawaiana,10.5,2
+2026-09-07,Hawaiana,10.5,4
+2026-09-07,Pepperoni,11.0,4
+2026-09-07,Hawaiana,10.5,3
+2026-09-07,Margarita,9.5,2
+2026-09-07,Barbacoa,12.0,3
+2026-09-07,Cuatro quesos,12.5,2
+2026-09-07,Pepperoni,11.0,3
+2026-09-07,Margarita,9.5,1
+2026-09-07,Barbacoa,12.0,1
+2026-09-07,Cuatro quesos,12.5,3
+2026-09-07,Hawaiana,10.5,3
+2026-09-07,Margarita,9.5,4
+2026-09-07,Hawaiana,10.5,1
+2026-09-07,Barbacoa,12.0,1
+2026-09-07,Hawaiana,10.5,3
+2026-09-07,Hawaiana,10.5,3
+2026-09-07,Hawaiana,10.5,2
+2026-09-07,Margarita,9.5,1
+2026-09-07,Pepperoni,11.0,3
+2026-09-07,Margarita,9.5,2
+2026-09-07,Margarita,9.5,4
+2026-09-07,Cuatro quesos,12.5,4
+2026-09-07,Cuatro quesos,12.5,2
+2026-09-07,Cuatro quesos,12.5,3
+2026-09-07,Pepperoni,11.0,3
+2026-09-07,Margarita,9.5,2
+2026-09-08,Pepperoni,11.0,2
+2026-09-08,Barbacoa,12.0,4
+2026-09-08,Cuatro quesos,12.5,2
+2026-09-08,Cuatro quesos,12.5,1
+2026-09-08,Pepperoni,11.0,1
+2026-09-08,Cuatro quesos,12.5,4
+2026-09-08,Cuatro quesos,12.5,1
+2026-09-08,Pepperoni,11.0,3
+2026-09-08,Pepperoni,11.0,4
+2026-09-08,Barbacoa,12.0,4
+2026-09-08,Pepperoni,11.0,3
+2026-09-08,Pepperoni,11.0,2
+2026-09-08,Hawaiana,10.5,3
+2026-09-08,Hawaiana,10.5,4
+2026-09-08,Hawaiana,10.5,4
+2026-09-08,Cuatro quesos,12.5,2
+2026-09-08,Pepperoni,11.0,4
+2026-09-08,Margarita,9.5,1
+2026-09-08,Margarita,9.5,2
+2026-09-08,Pepperoni,11.0,4
+2026-09-08,Hawaiana,10.5,1
+2026-09-08,Barbacoa,12.0,4
+2026-09-08,Hawaiana,10.5,4
+2026-09-08,Hawaiana,10.5,3
+2026-09-08,Hawaiana,10.5,1
+2026-09-08,Margarita,9.5,3
+2026-09-08,Cuatro quesos,12.5,1
+2026-09-08,Cuatro quesos,12.5,4
+2026-09-08,Pepperoni,11.0,4
+2026-09-08,Margarita,9.5,3
+2026-09-08,Hawaiana,10.5,2
+2026-09-08,Hawaiana,10.5,1
+2026-09-09,Cuatro quesos,12.5,2
+2026-09-09,Pepperoni,11.0,3
+2026-09-09,Pepperoni,11.0,1
+2026-09-09,Hawaiana,10.5,3
+2026-09-09,Barbacoa,12.0,1
+2026-09-09,Margarita,9.5,3
+2026-09-09,Cuatro quesos,12.5,2
+2026-09-09,Margarita,9.5,2
+2026-09-09,Hawaiana,10.5,1
+2026-09-09,Margarita,9.5,4
+2026-09-09,Margarita,9.5,2
+2026-09-09,Pepperoni,11.0,4
+2026-09-09,Hawaiana,10.5,2
+2026-09-09,Cuatro quesos,12.5,4
+2026-09-09,Pepperoni,11.0,2
+2026-09-09,Cuatro quesos,12.5,4
+2026-09-09,Cuatro quesos,12.5,4
+2026-09-09,Hawaiana,10.5,4
+2026-09-09,Margarita,9.5,2
+2026-09-09,Pepperoni,11.0,1
+2026-09-09,Cuatro quesos,12.5,1
+2026-09-09,Hawaiana,10.5,2
+2026-09-09,Hawaiana,10.5,2
+2026-09-09,Margarita,9.5,1
+2026-09-09,Margarita,9.5,2
+2026-09-09,Margarita,9.5,1
+2026-09-09,Cuatro quesos,12.5,1
+2026-09-09,Hawaiana,10.5,2
+2026-09-09,Cuatro quesos,12.5,4
+2026-09-09,Pepperoni,11.0,2
+2026-09-09,Hawaiana,10.5,4
+2026-09-09,Pepperoni,11.0,4
+2026-09-09,Barbacoa,12.0,2
+2026-09-09,Margarita,9.5,1
+2026-09-09,Barbacoa,12.0,3
+2026-09-10,Barbacoa,12.0,4
+2026-09-10,Margarita,9.5,1
+2026-09-10,Margarita,9.5,4
+2026-09-10,Cuatro quesos,12.5,1
+2026-09-10,Pepperoni,11.0,2
+2026-09-10,Pepperoni,11.0,4
+2026-09-10,Pepperoni,11.0,4
+2026-09-10,Pepperoni,11.0,3
+2026-09-10,Barbacoa,12.0,2
+2026-09-10,Margarita,9.5,4
+2026-09-10,Hawaiana,10.5,1
+2026-09-10,Margarita,9.5,1
+2026-09-10,Margarita,9.5,2
+2026-09-10,Pepperoni,11.0,4
+2026-09-10,Barbacoa,12.0,4
+2026-09-10,Pepperoni,11.0,4
+2026-09-10,Margarita,9.5,2
+2026-09-10,Barbacoa,12.0,1
+2026-09-10,Barbacoa,12.0,3
+2026-09-10,Barbacoa,12.0,3
+2026-09-10,Barbacoa,12.0,4
+2026-09-10,Pepperoni,11.0,2
+2026-09-10,Cuatro quesos,12.5,2
+2026-09-10,Margarita,9.5,1
+2026-09-10,Cuatro quesos,12.5,1
+2026-09-10,Margarita,9.5,4
+2026-09-10,Hawaiana,10.5,2
+2026-09-10,Margarita,9.5,1
+2026-09-11,Margarita,9.5,1
+2026-09-11,Pepperoni,11.0,4
+2026-09-11,Margarita,9.5,2
+2026-09-11,Hawaiana,10.5,1
+2026-09-11,Hawaiana,10.5,1
+2026-09-11,Barbacoa,12.0,3
+2026-09-11,Cuatro quesos,12.5,2
+2026-09-11,Cuatro quesos,12.5,2
+2026-09-11,Cuatro quesos,12.5,4
+2026-09-11,Pepperoni,11.0,3
+2026-09-11,Barbacoa,12.0,3
+2026-09-11,Margarita,9.5,1
+2026-09-11,Barbacoa,12.0,1
+2026-09-11,Margarita,9.5,2
+2026-09-11,Hawaiana,10.5,3
+2026-09-11,Pepperoni,11.0,3
+2026-09-11,Margarita,9.5,2
+2026-09-11,Cuatro quesos,12.5,3
+2026-09-11,Pepperoni,11.0,4
+2026-09-11,Hawaiana,10.5,3
+2026-09-12,Hawaiana,10.5,1
+2026-09-12,Hawaiana,10.5,3
+2026-09-12,Margarita,9.5,2
+2026-09-12,Cuatro quesos,12.5,1
+2026-09-12,Margarita,9.5,2
+2026-09-12,Cuatro quesos,12.5,3
+2026-09-12,Hawaiana,10.5,2
+2026-09-12,Cuatro quesos,12.5,2
+2026-09-12,Cuatro quesos,12.5,4
+2026-09-12,Cuatro quesos,12.5,1
+2026-09-12,Margarita,9.5,4
+2026-09-12,Cuatro quesos,12.5,1
+2026-09-12,Margarita,9.5,3
+2026-09-12,Pepperoni,11.0,3
+2026-09-12,Pepperoni,11.0,4
+2026-09-12,Hawaiana,10.5,4
+2026-09-12,Hawaiana,10.5,1
+2026-09-12,Margarita,9.5,1
+2026-09-12,Pepperoni,11.0,1
+2026-09-12,Cuatro quesos,12.5,2
+2026-09-12,Barbacoa,12.0,2
+2026-09-12,Margarita,9.5,3
+2026-09-12,Cuatro quesos,12.5,1
+2026-09-12,Cuatro quesos,12.5,2
+2026-09-12,Pepperoni,11.0,1
+2026-09-12,Cuatro quesos,12.5,4
+2026-09-12,Hawaiana,10.5,2
+2026-09-12,Pepperoni,11.0,2
+2026-09-12,Pepperoni,11.0,4
+2026-09-12,Margarita,9.5,2
+2026-09-12,Cuatro quesos,12.5,4
+2026-09-12,Pepperoni,11.0,3
+2026-09-12,Pepperoni,11.0,1
+2026-09-12,Barbacoa,12.0,1
+2026-09-13,Pepperoni,11.0,2
+2026-09-13,Barbacoa,12.0,3
+2026-09-13,Cuatro quesos,12.5,2
+2026-09-13,Pepperoni,11.0,1
+2026-09-13,Pepperoni,11.0,4
+2026-09-13,Cuatro quesos,12.5,3
+2026-09-13,Margarita,9.5,3
+2026-09-13,Cuatro quesos,12.5,4
+2026-09-13,Hawaiana,10.5,3
+2026-09-13,Margarita,9.5,1
+2026-09-13,Cuatro quesos,12.5,2
+2026-09-13,Hawaiana,10.5,3
+2026-09-13,Margarita,9.5,1
+2026-09-13,Hawaiana,10.5,4
+2026-09-13,Cuatro quesos,12.5,3
+2026-09-13,Barbacoa,12.0,1
+2026-09-13,Barbacoa,12.0,2
+2026-09-13,Cuatro quesos,12.5,1
+2026-09-13,Barbacoa,12.0,1
+2026-09-13,Hawaiana,10.5,2
+2026-09-13,Cuatro quesos,12.5,4
+2026-09-13,Margarita,9.5,3
+2026-09-13,Hawaiana,10.5,3
+2026-09-13,Margarita,9.5,3
+2026-09-13,Hawaiana,10.5,3
+2026-09-13,Barbacoa,12.0,3
+2026-09-13,Barbacoa,12.0,3
+2026-09-13,Hawaiana,10.5,2
+2026-09-13,Pepperoni,11.0,4
+2026-09-13,Barbacoa,12.0,2
+2026-09-14,Hawaiana,10.5,3
+2026-09-14,Barbacoa,12.0,1
+2026-09-14,Cuatro quesos,12.5,3
+2026-09-14,Pepperoni,11.0,4
+2026-09-14,Hawaiana,10.5,3
+2026-09-14,Barbacoa,12.0,4
+2026-09-14,Barbacoa,12.0,2
+2026-09-14,Hawaiana,10.5,4
+2026-09-14,Pepperoni,11.0,1
+2026-09-14,Cuatro quesos,12.5,3
+2026-09-14,Margarita,9.5,2
+2026-09-14,Cuatro quesos,12.5,2
+2026-09-14,Pepperoni,11.0,2
+2026-09-14,Margarita,9.5,1
+2026-09-14,Pepperoni,11.0,4
+2026-09-14,Hawaiana,10.5,1
+2026-09-14,Barbacoa,12.0,4
+2026-09-14,Hawaiana,10.5,2
+2026-09-14,Barbacoa,12.0,4
+2026-09-14,Barbacoa,12.0,2
+2026-09-14,Pepperoni,11.0,1
+2026-09-14,Margarita,9.5,4
+2026-09-14,Pepperoni,11.0,2
+2026-09-14,Hawaiana,10.5,4
+2026-09-14,Margarita,9.5,2
+2026-09-14,Margarita,9.5,4
+2026-09-14,Pepperoni,11.0,4
+2026-09-14,Hawaiana,10.5,3
+2026-09-14,Barbacoa,12.0,4
+2026-09-14,Hawaiana,10.5,4
+2026-09-14,Pepperoni,11.0,4
+2026-09-14,Barbacoa,12.0,3
+2026-09-14,Pepperoni,11.0,3
+2026-09-14,Hawaiana,10.5,4
+2026-09-15,Pepperoni,11.0,3
+2026-09-15,Barbacoa,12.0,1
+2026-09-15,Cuatro quesos,12.5,2
+2026-09-15,Cuatro quesos,12.5,3
+2026-09-15,Cuatro quesos,12.5,1
+2026-09-15,Pepperoni,11.0,2
+2026-09-15,Pepperoni,11.0,4
+2026-09-15,Pepperoni,11.0,2
+2026-09-15,Margarita,9.5,4
+2026-09-15,Barbacoa,12.0,3
+2026-09-15,Hawaiana,10.5,4
+2026-09-15,Barbacoa,12.0,1
+2026-09-15,Pepperoni,11.0,4
+2026-09-15,Barbacoa,12.0,1
+2026-09-15,Hawaiana,10.5,4
+2026-09-15,Barbacoa,12.0,1
+2026-09-15,Cuatro quesos,12.5,3
+2026-09-15,Barbacoa,12.0,4
+2026-09-15,Hawaiana,10.5,2
+2026-09-15,Barbacoa,12.0,2
+2026-09-15,Cuatro quesos,12.5,4
+2026-09-15,Barbacoa,12.0,1
+2026-09-15,Barbacoa,12.0,3
+2026-09-15,Barbacoa,12.0,2
+2026-09-15,Barbacoa,12.0,2
+2026-09-15,Hawaiana,10.5,1
+2026-09-15,Barbacoa,12.0,1
+2026-09-15,Margarita,9.5,4
+2026-09-15,Pepperoni,11.0,4
+2026-09-15,Pepperoni,11.0,1
+2026-09-15,Cuatro quesos,12.5,4
+2026-09-15,Cuatro quesos,12.5,2
+2026-09-15,Barbacoa,12.0,3
+2026-09-15,Cuatro quesos,12.5,4
+2026-09-15,Cuatro quesos,12.5,4
+2026-09-16,Margarita,9.5,4
+2026-09-16,Margarita,9.5,1
+2026-09-16,Cuatro quesos,12.5,2
+2026-09-16,Margarita,9.5,1
+2026-09-16,Margarita,9.5,2
+2026-09-16,Pepperoni,11.0,1
+2026-09-16,Hawaiana,10.5,2
+2026-09-16,Pepperoni,11.0,2
+2026-09-16,Barbacoa,12.0,1
+2026-09-16,Hawaiana,10.5,2
+2026-09-16,Barbacoa,12.0,3
+2026-09-16,Cuatro quesos,12.5,2
+2026-09-16,Hawaiana,10.5,1
+2026-09-16,Pepperoni,11.0,3
+2026-09-16,Margarita,9.5,1
+2026-09-16,Cuatro quesos,12.5,4
+2026-09-16,Barbacoa,12.0,2
+2026-09-16,Margarita,9.5,2
+2026-09-16,Margarita,9.5,3
+2026-09-16,Hawaiana,10.5,1
+2026-09-16,Hawaiana,10.5,1
+2026-09-16,Cuatro quesos,12.5,4
+2026-09-16,Cuatro quesos,12.5,1
+2026-09-17,Cuatro quesos,12.5,1
+2026-09-17,Barbacoa,12.0,4
+2026-09-17,Margarita,9.5,4
+2026-09-17,Cuatro quesos,12.5,4
+2026-09-17,Pepperoni,11.0,4
+2026-09-17,Pepperoni,11.0,3
+2026-09-17,Hawaiana,10.5,4
+2026-09-17,Barbacoa,12.0,4
+2026-09-17,Hawaiana,10.5,3
+2026-09-17,Cuatro quesos,12.5,2
+2026-09-17,Margarita,9.5,3
+2026-09-17,Barbacoa,12.0,2
+2026-09-17,Barbacoa,12.0,4
+2026-09-17,Cuatro quesos,12.5,1
+2026-09-17,Barbacoa,12.0,3
+2026-09-17,Pepperoni,11.0,4
+2026-09-17,Pepperoni,11.0,3
+2026-09-17,Cuatro quesos,12.5,3
+2026-09-17,Cuatro quesos,12.5,3
+2026-09-17,Hawaiana,10.5,1
+2026-09-17,Hawaiana,10.5,2
+2026-09-17,Margarita,9.5,2
+2026-09-17,Barbacoa,12.0,4
+2026-09-17,Hawaiana,10.5,2
+2026-09-17,Barbacoa,12.0,4
+2026-09-17,Barbacoa,12.0,1
+2026-09-17,Margarita,9.5,3
+2026-09-17,Pepperoni,11.0,4
+2026-09-17,Pepperoni,11.0,3
+2026-09-17,Hawaiana,10.5,3
+2026-09-17,Barbacoa,12.0,3
+2026-09-18,Hawaiana,10.5,3
+2026-09-18,Cuatro quesos,12.5,4
+2026-09-18,Cuatro quesos,12.5,3
+2026-09-18,Cuatro quesos,12.5,2
+2026-09-18,Margarita,9.5,2
+2026-09-18,Cuatro quesos,12.5,1
+2026-09-18,Hawaiana,10.5,2
+2026-09-18,Pepperoni,11.0,2
+2026-09-18,Barbacoa,12.0,3
+2026-09-18,Hawaiana,10.5,3
+2026-09-18,Margarita,9.5,2
+2026-09-18,Cuatro quesos,12.5,2
+2026-09-18,Cuatro quesos,12.5,2
+2026-09-18,Cuatro quesos,12.5,1
+2026-09-18,Hawaiana,10.5,2
+2026-09-18,Cuatro quesos,12.5,1
+2026-09-18,Margarita,9.5,3
+2026-09-18,Pepperoni,11.0,4
+2026-09-18,Margarita,9.5,1
+2026-09-18,Hawaiana,10.5,3
+2026-09-18,Barbacoa,12.0,4
+2026-09-18,Barbacoa,12.0,3
+2026-09-18,Pepperoni,11.0,1
+2026-09-18,Cuatro quesos,12.5,4
+2026-09-18,Margarita,9.5,1
+2026-09-18,Barbacoa,12.0,4
+2026-09-18,Margarita,9.5,1
+2026-09-18,Pepperoni,11.0,2
+2026-09-19,Hawaiana,10.5,3
+2026-09-19,Margarita,9.5,2
+2026-09-19,Margarita,9.5,4
+2026-09-19,Hawaiana,10.5,2
+2026-09-19,Hawaiana,10.5,4
+2026-09-19,Barbacoa,12.0,4
+2026-09-19,Cuatro quesos,12.5,4
+2026-09-19,Cuatro quesos,12.5,1
+2026-09-19,Hawaiana,10.5,1
+2026-09-19,Pepperoni,11.0,2
+2026-09-19,Cuatro quesos,12.5,1
+2026-09-19,Pepperoni,11.0,2
+2026-09-19,Pepperoni,11.0,1
+2026-09-19,Pepperoni,11.0,1
+2026-09-19,Barbacoa,12.0,4
+2026-09-19,Hawaiana,10.5,4
+2026-09-19,Cuatro quesos,12.5,1
+2026-09-19,Pepperoni,11.0,3
+2026-09-19,Cuatro quesos,12.5,4
+2026-09-19,Margarita,9.5,2
+2026-09-19,Cuatro quesos,12.5,2
+2026-09-19,Barbacoa,12.0,1
+2026-09-19,Hawaiana,10.5,2
+2026-09-19,Pepperoni,11.0,3
+2026-09-19,Pepperoni,11.0,1
+2026-09-19,Margarita,9.5,2
+2026-09-19,Cuatro quesos,12.5,3
+2026-09-19,Barbacoa,12.0,1
+2026-09-19,Barbacoa,12.0,3
+2026-09-19,Barbacoa,12.0,3
+2026-09-19,Hawaiana,10.5,4
+2026-09-19,Barbacoa,12.0,1
+2026-09-19,Hawaiana,10.5,1
+2026-09-19,Barbacoa,12.0,3
+2026-09-19,Hawaiana,10.5,3
+2026-09-19,Margarita,9.5,1
+2026-09-19,Pepperoni,11.0,1
+2026-09-19,Cuatro quesos,12.5,1
+2026-09-19,Pepperoni,11.0,4
+2026-09-19,Hawaiana,10.5,4
+2026-09-20,Pepperoni,11.0,4
+2026-09-20,Barbacoa,12.0,1
+2026-09-20,Barbacoa,12.0,3
+2026-09-20,Barbacoa,12.0,3
+2026-09-20,Cuatro quesos,12.5,1
+2026-09-20,Pepperoni,11.0,3
+2026-09-20,Barbacoa,12.0,4
+2026-09-20,Cuatro quesos,12.5,4
+2026-09-20,Hawaiana,10.5,1
+2026-09-20,Barbacoa,12.0,1
+2026-09-20,Cuatro quesos,12.5,3
+2026-09-20,Cuatro quesos,12.5,1
+2026-09-20,Barbacoa,12.0,1
+2026-09-20,Hawaiana,10.5,4
+2026-09-20,Barbacoa,12.0,1
+2026-09-20,Pepperoni,11.0,3
+2026-09-20,Hawaiana,10.5,4
+2026-09-20,Barbacoa,12.0,1
+2026-09-20,Pepperoni,11.0,3
+2026-09-20,Hawaiana,10.5,2
+2026-09-20,Cuatro quesos,12.5,4
+2026-09-20,Barbacoa,12.0,1
+2026-09-20,Margarita,9.5,2
+2026-09-21,Pepperoni,11.0,3
+2026-09-21,Hawaiana,10.5,1
+2026-09-21,Hawaiana,10.5,4
+2026-09-21,Margarita,9.5,2
+2026-09-21,Margarita,9.5,4
+2026-09-21,Margarita,9.5,2
+2026-09-21,Barbacoa,12.0,3
+2026-09-21,Hawaiana,10.5,3
+2026-09-21,Barbacoa,12.0,4
+2026-09-21,Barbacoa,12.0,2
+2026-09-21,Barbacoa,12.0,2
+2026-09-21,Barbacoa,12.0,2
+2026-09-21,Hawaiana,10.5,2
+2026-09-21,Margarita,9.5,3
+2026-09-21,Barbacoa,12.0,3
+2026-09-21,Hawaiana,10.5,3
+2026-09-21,Margarita,9.5,3
+2026-09-21,Cuatro quesos,12.5,4
+2026-09-21,Pepperoni,11.0,4
+2026-09-21,Hawaiana,10.5,4
+2026-09-21,Cuatro quesos,12.5,3
+2026-09-21,Hawaiana,10.5,4
+2026-09-21,Barbacoa,12.0,3
+2026-09-21,Pepperoni,11.0,2
+2026-09-21,Hawaiana,10.5,4
+2026-09-21,Pepperoni,11.0,4
+2026-09-21,Margarita,9.5,3
+2026-09-21,Barbacoa,12.0,4
+2026-09-21,Barbacoa,12.0,2
+2026-09-21,Barbacoa,12.0,1
+2026-09-21,Pepperoni,11.0,3
+2026-09-21,Margarita,9.5,4
+2026-09-21,Margarita,9.5,4
+2026-09-21,Margarita,9.5,2
+2026-09-21,Barbacoa,12.0,2
+2026-09-21,Margarita,9.5,4
+2026-09-21,Cuatro quesos,12.5,3
+2026-09-22,Barbacoa,12.0,1
+2026-09-22,Cuatro quesos,12.5,4
+2026-09-22,Cuatro quesos,12.5,4
+2026-09-22,Hawaiana,10.5,1
+2026-09-22,Hawaiana,10.5,1
+2026-09-22,Pepperoni,11.0,3
+2026-09-22,Pepperoni,11.0,1
+2026-09-22,Barbacoa,12.0,1
+2026-09-22,Margarita,9.5,4
+2026-09-22,Pepperoni,11.0,3
+2026-09-22,Margarita,9.5,1
+2026-09-22,Cuatro quesos,12.5,1
+2026-09-22,Cuatro quesos,12.5,3
+2026-09-22,Cuatro quesos,12.5,4
+2026-09-22,Pepperoni,11.0,2
+2026-09-22,Hawaiana,10.5,4
+2026-09-22,Hawaiana,10.5,2
+2026-09-22,Pepperoni,11.0,2
+2026-09-22,Margarita,9.5,4
+2026-09-22,Hawaiana,10.5,2
+2026-09-22,Barbacoa,12.0,2
+2026-09-22,Pepperoni,11.0,4
+2026-09-22,Cuatro quesos,12.5,4
+2026-09-22,Cuatro quesos,12.5,1
+2026-09-22,Barbacoa,12.0,3
+2026-09-22,Hawaiana,10.5,2
+2026-09-22,Margarita,9.5,4
+2026-09-22,Cuatro quesos,12.5,3
+2026-09-22,Barbacoa,12.0,3
+2026-09-22,Barbacoa,12.0,3
+2026-09-22,Pepperoni,11.0,4
+2026-09-22,Barbacoa,12.0,1
+2026-09-22,Pepperoni,11.0,4
+2026-09-22,Hawaiana,10.5,3
+2026-09-23,Cuatro quesos,12.5,3
+2026-09-23,Margarita,9.5,4
+2026-09-23,Cuatro quesos,12.5,1
+2026-09-23,Hawaiana,10.5,1
+2026-09-23,Hawaiana,10.5,4
+2026-09-23,Cuatro quesos,12.5,2
+2026-09-23,Hawaiana,10.5,3
+2026-09-23,Pepperoni,11.0,2
+2026-09-23,Hawaiana,10.5,3
+2026-09-23,Pepperoni,11.0,1
+2026-09-23,Margarita,9.5,3
+2026-09-23,Barbacoa,12.0,1
+2026-09-23,Hawaiana,10.5,3
+2026-09-23,Pepperoni,11.0,1
+2026-09-23,Cuatro quesos,12.5,3
+2026-09-23,Barbacoa,12.0,2
+2026-09-23,Pepperoni,11.0,2
+2026-09-23,Hawaiana,10.5,3
+2026-09-23,Hawaiana,10.5,3
+2026-09-23,Pepperoni,11.0,3
+2026-09-23,Barbacoa,12.0,3
+2026-09-23,Cuatro quesos,12.5,1
+2026-09-23,Barbacoa,12.0,1
+2026-09-23,Pepperoni,11.0,2
+2026-09-23,Barbacoa,12.0,3
+2026-09-23,Margarita,9.5,4
+2026-09-23,Margarita,9.5,3
+2026-09-23,Hawaiana,10.5,1
+2026-09-23,Barbacoa,12.0,3
+2026-09-23,Cuatro quesos,12.5,4
+2026-09-23,Cuatro quesos,12.5,1
+2026-09-23,Pepperoni,11.0,4
+2026-09-23,Margarita,9.5,3
+2026-09-24,Pepperoni,11.0,1
+2026-09-24,Barbacoa,12.0,3
+2026-09-24,Barbacoa,12.0,1
+2026-09-24,Pepperoni,11.0,1
+2026-09-24,Margarita,9.5,3
+2026-09-24,Barbacoa,12.0,1
+2026-09-24,Margarita,9.5,2
+2026-09-24,Hawaiana,10.5,2
+2026-09-24,Barbacoa,12.0,4
+2026-09-24,Cuatro quesos,12.5,4
+2026-09-24,Hawaiana,10.5,2
+2026-09-24,Barbacoa,12.0,1
+2026-09-24,Barbacoa,12.0,4
+2026-09-24,Cuatro quesos,12.5,1
+2026-09-24,Cuatro quesos,12.5,2
+2026-09-24,Barbacoa,12.0,4
+2026-09-24,Pepperoni,11.0,3
+2026-09-24,Margarita,9.5,3
+2026-09-24,Hawaiana,10.5,3
+2026-09-24,Margarita,9.5,4
+2026-09-24,Cuatro quesos,12.5,2
+2026-09-24,Margarita,9.5,4
+2026-09-24,Margarita,9.5,2
+2026-09-24,Hawaiana,10.5,1
+2026-09-24,Margarita,9.5,3
+2026-09-24,Pepperoni,11.0,2
+2026-09-24,Hawaiana,10.5,2
+2026-09-24,Margarita,9.5,2
+2026-09-24,Hawaiana,10.5,2
+2026-09-24,Pepperoni,11.0,3
+2026-09-24,Pepperoni,11.0,1
+2026-09-24,Cuatro quesos,12.5,2
+2026-09-24,Pepperoni,11.0,3
+2026-09-24,Pepperoni,11.0,1
+2026-09-25,Margarita,9.5,2
+2026-09-25,Margarita,9.5,3
+2026-09-25,Pepperoni,11.0,3
+2026-09-25,Margarita,9.5,2
+2026-09-25,Cuatro quesos,12.5,1
+2026-09-25,Pepperoni,11.0,4
+2026-09-25,Hawaiana,10.5,1
+2026-09-25,Margarita,9.5,4
+2026-09-25,Barbacoa,12.0,3
+2026-09-25,Hawaiana,10.5,1
+2026-09-25,Barbacoa,12.0,2
+2026-09-25,Hawaiana,10.5,1
+2026-09-25,Hawaiana,10.5,3
+2026-09-25,Barbacoa,12.0,1
+2026-09-25,Margarita,9.5,4
+2026-09-25,Barbacoa,12.0,4
+2026-09-25,Margarita,9.5,4
+2026-09-25,Barbacoa,12.0,1
+2026-09-25,Margarita,9.5,3
+2026-09-25,Hawaiana,10.5,2
+2026-09-25,Margarita,9.5,2
+2026-09-25,Cuatro quesos,12.5,3
+2026-09-25,Barbacoa,12.0,3
+2026-09-25,Barbacoa,12.0,4
+2026-09-25,Margarita,9.5,1
+2026-09-25,Hawaiana,10.5,2
+2026-09-25,Barbacoa,12.0,4
+2026-09-25,Pepperoni,11.0,4
+2026-09-25,Cuatro quesos,12.5,4
+2026-09-25,Barbacoa,12.0,4
+2026-09-25,Margarita,9.5,3
+2026-09-25,Barbacoa,12.0,3
+2026-09-25,Cuatro quesos,12.5,3
+2026-09-25,Pepperoni,11.0,4
+2026-09-25,Margarita,9.5,1
+2026-09-25,Margarita,9.5,1
+2026-09-26,Margarita,9.5,3
+2026-09-26,Pepperoni,11.0,1
+2026-09-26,Hawaiana,10.5,3
+2026-09-26,Margarita,9.5,4
+2026-09-26,Cuatro quesos,12.5,4
+2026-09-26,Margarita,9.5,3
+2026-09-26,Hawaiana,10.5,3
+2026-09-26,Cuatro quesos,12.5,1
+2026-09-26,Hawaiana,10.5,2
+2026-09-26,Pepperoni,11.0,4
+2026-09-26,Pepperoni,11.0,1
+2026-09-26,Cuatro quesos,12.5,3
+2026-09-26,Margarita,9.5,3
+2026-09-26,Hawaiana,10.5,2
+2026-09-26,Barbacoa,12.0,1
+2026-09-26,Hawaiana,10.5,3
+2026-09-26,Margarita,9.5,2
+2026-09-26,Cuatro quesos,12.5,3
+2026-09-26,Cuatro quesos,12.5,3
+2026-09-26,Margarita,9.5,2
+2026-09-26,Pepperoni,11.0,4
+2026-09-26,Margarita,9.5,2
+2026-09-26,Margarita,9.5,1
+2026-09-26,Hawaiana,10.5,2
+2026-09-26,Barbacoa,12.0,4
+2026-09-26,Barbacoa,12.0,3
+2026-09-26,Pepperoni,11.0,3
+2026-09-26,Cuatro quesos,12.5,3
+2026-09-27,Hawaiana,10.5,1
+2026-09-27,Margarita,9.5,2
+2026-09-27,Pepperoni,11.0,1
+2026-09-27,Margarita,9.5,3
+2026-09-27,Barbacoa,12.0,4
+2026-09-27,Barbacoa,12.0,4
+2026-09-27,Barbacoa,12.0,3
+2026-09-27,Pepperoni,11.0,1
+2026-09-27,Cuatro quesos,12.5,4
+2026-09-27,Margarita,9.5,3
+2026-09-27,Hawaiana,10.5,4
+2026-09-27,Hawaiana,10.5,3
+2026-09-27,Margarita,9.5,2
+2026-09-27,Barbacoa,12.0,1
+2026-09-27,Margarita,9.5,2
+2026-09-27,Cuatro quesos,12.5,2
+2026-09-27,Pepperoni,11.0,3
+2026-09-27,Cuatro quesos,12.5,3
+2026-09-27,Margarita,9.5,1
+2026-09-27,Barbacoa,12.0,4
+2026-09-27,Pepperoni,11.0,2
+2026-09-27,Barbacoa,12.0,2
+2026-09-27,Hawaiana,10.5,3
+2026-09-27,Margarita,9.5,4
+2026-09-27,Margarita,9.5,4
+2026-09-27,Margarita,9.5,4
+2026-09-27,Margarita,9.5,3
+2026-09-27,Hawaiana,10.5,4
+2026-09-27,Hawaiana,10.5,4
+2026-09-27,Barbacoa,12.0,3
+2026-09-27,Margarita,9.5,4
+2026-09-27,Margarita,9.5,3
+2026-09-27,Pepperoni,11.0,4
+2026-09-27,Cuatro quesos,12.5,1
+2026-09-27,Barbacoa,12.0,1
+2026-09-27,Pepperoni,11.0,4
+2026-09-27,Hawaiana,10.5,4
+2026-09-27,Hawaiana,10.5,1
+2026-09-27,Barbacoa,12.0,3
+2026-09-28,Cuatro quesos,12.5,2
+2026-09-28,Cuatro quesos,12.5,2
+2026-09-28,Margarita,9.5,1
+2026-09-28,Hawaiana,10.5,2
+2026-09-28,Cuatro quesos,12.5,3
+2026-09-28,Pepperoni,11.0,2
+2026-09-28,Margarita,9.5,2
+2026-09-28,Cuatro quesos,12.5,2
+2026-09-28,Pepperoni,11.0,2
+2026-09-28,Margarita,9.5,2
+2026-09-28,Barbacoa,12.0,4
+2026-09-28,Hawaiana,10.5,4
+2026-09-28,Hawaiana,10.5,3
+2026-09-28,Cuatro quesos,12.5,2
+2026-09-28,Barbacoa,12.0,1
+2026-09-28,Barbacoa,12.0,4
+2026-09-28,Cuatro quesos,12.5,3
+2026-09-28,Hawaiana,10.5,1
+2026-09-28,Cuatro quesos,12.5,1
+2026-09-28,Cuatro quesos,12.5,4
+2026-09-28,Barbacoa,12.0,1
+2026-09-28,Margarita,9.5,3
+2026-09-28,Cuatro quesos,12.5,1
+2026-09-28,Margarita,9.5,4
+2026-09-28,Barbacoa,12.0,1
+2026-09-28,Barbacoa,12.0,2
+2026-09-28,Cuatro quesos,12.5,4
+2026-09-28,Hawaiana,10.5,2
+2026-09-28,Margarita,9.5,4
+2026-09-28,Margarita,9.5,3
+2026-09-28,Margarita,9.5,2
+2026-09-28,Margarita,9.5,2
+2026-09-28,Barbacoa,12.0,4
+2026-09-28,Hawaiana,10.5,2
+2026-09-28,Cuatro quesos,12.5,3
+2026-09-28,Cuatro quesos,12.5,4
+2026-09-28,Barbacoa,12.0,3
+2026-09-28,Hawaiana,10.5,1
+2026-09-29,Cuatro quesos,12.5,1
+2026-09-29,Cuatro quesos,12.5,1
+2026-09-29,Hawaiana,10.5,4
+2026-09-29,Cuatro quesos,12.5,3
+2026-09-29,Hawaiana,10.5,2
+2026-09-29,Cuatro quesos,12.5,1
+2026-09-29,Hawaiana,10.5,2
+2026-09-29,Cuatro quesos,12.5,3
+2026-09-29,Barbacoa,12.0,2
+2026-09-29,Hawaiana,10.5,1
+2026-09-29,Cuatro quesos,12.5,4
+2026-09-29,Cuatro quesos,12.5,2
+2026-09-29,Hawaiana,10.5,1
+2026-09-29,Barbacoa,12.0,3
+2026-09-29,Margarita,9.5,3
+2026-09-29,Cuatro quesos,12.5,2
+2026-09-29,Pepperoni,11.0,3
+2026-09-29,Barbacoa,12.0,2
+2026-09-29,Pepperoni,11.0,2
+2026-09-29,Pepperoni,11.0,1
+2026-09-29,Cuatro quesos,12.5,1
+2026-09-29,Hawaiana,10.5,1
+2026-09-29,Cuatro quesos,12.5,2
+2026-09-29,Hawaiana,10.5,4
+2026-09-29,Pepperoni,11.0,2
+2026-09-29,Pepperoni,11.0,2
+2026-09-29,Barbacoa,12.0,1
+2026-09-29,Barbacoa,12.0,3
+2026-09-29,Pepperoni,11.0,4
+2026-09-29,Hawaiana,10.5,3
+2026-09-29,Barbacoa,12.0,2
+2026-09-29,Hawaiana,10.5,2
+2026-09-29,Cuatro quesos,12.5,4
+2026-09-29,Pepperoni,11.0,3
+2026-09-29,Hawaiana,10.5,4
+2026-09-29,Barbacoa,12.0,3
+2026-09-29,Barbacoa,12.0,4
+2026-09-29,Pepperoni,11.0,2
+2026-09-29,Hawaiana,10.5,2
+2026-09-29,Cuatro quesos,12.5,1
+2026-09-30,Barbacoa,12.0,3
+2026-09-30,Hawaiana,10.5,1
+2026-09-30,Hawaiana,10.5,1
+2026-09-30,Cuatro quesos,12.5,1
+2026-09-30,Pepperoni,11.0,3
+2026-09-30,Barbacoa,12.0,2
+2026-09-30,Barbacoa,12.0,1
+2026-09-30,Pepperoni,11.0,4
+2026-09-30,Cuatro quesos,12.5,1
+2026-09-30,Barbacoa,12.0,1
+2026-09-30,Barbacoa,12.0,3
+2026-09-30,Pepperoni,11.0,4
+2026-09-30,Margarita,9.5,3
+2026-09-30,Pepperoni,11.0,1
+2026-09-30,Cuatro quesos,12.5,1
+2026-09-30,Cuatro quesos,12.5,2
+2026-09-30,Pepperoni,11.0,1
+2026-09-30,Cuatro quesos,12.5,4
+2026-09-30,Pepperoni,11.0,4
+2026-09-30,Barbacoa,12.0,1
+2026-09-30,Margarita,9.5,1
+2026-09-30,Cuatro quesos,12.5,2
+2026-09-30,Pepperoni,11.0,4
+2026-09-30,Margarita,9.5,3
+2026-09-30,Pepperoni,11.0,3
+2026-09-30,Margarita,9.5,1
+2026-09-30,Pepperoni,11.0,4
+2026-09-30,Hawaiana,10.5,4
+2026-09-30,Margarita,9.5,1
+2026-09-30,Barbacoa,12.0,1
+2026-09-30,Hawaiana,10.5,2
+2026-09-30,Pepperoni,11.0,3
+2026-09-30,Barbacoa,12.0,1
+2026-09-30,Hawaiana,10.5,3
+2026-09-30,Pepperoni,11.0,4
+2026-10-01,Margarita,9.5,3
+2026-10-01,Margarita,9.5,1
+2026-10-01,Barbacoa,12.0,4
+2026-10-01,Margarita,9.5,4
+2026-10-01,Cuatro quesos,12.5,3
+2026-10-01,Margarita,9.5,3
+2026-10-01,Margarita,9.5,3
+2026-10-01,Pepperoni,11.0,1
+2026-10-01,Hawaiana,10.5,3
+2026-10-01,Pepperoni,11.0,1
+2026-10-01,Cuatro quesos,12.5,3
+2026-10-01,Pepperoni,11.0,4
+2026-10-01,Barbacoa,12.0,2
+2026-10-01,Pepperoni,11.0,1
+2026-10-01,Barbacoa,12.0,1
+2026-10-01,Cuatro quesos,12.5,2
+2026-10-01,Margarita,9.5,2
+2026-10-01,Margarita,9.5,3
+2026-10-01,Cuatro quesos,12.5,4
+2026-10-01,Hawaiana,10.5,4
+2026-10-02,Margarita,9.5,2
+2026-10-02,Cuatro quesos,12.5,3
+2026-10-02,Margarita,9.5,3
+2026-10-02,Cuatro quesos,12.5,1
+2026-10-02,Cuatro quesos,12.5,4
+2026-10-02,Barbacoa,12.0,4
+2026-10-02,Barbacoa,12.0,3
+2026-10-02,Pepperoni,11.0,4
+2026-10-02,Barbacoa,12.0,3
+2026-10-02,Hawaiana,10.5,3
+2026-10-02,Margarita,9.5,4
+2026-10-02,Margarita,9.5,4
+2026-10-02,Hawaiana,10.5,2
+2026-10-02,Hawaiana,10.5,3
+2026-10-02,Cuatro quesos,12.5,1
+2026-10-02,Margarita,9.5,3
+2026-10-02,Cuatro quesos,12.5,3
+2026-10-02,Barbacoa,12.0,4
+2026-10-02,Pepperoni,11.0,4
+2026-10-02,Cuatro quesos,12.5,4
+2026-10-02,Margarita,9.5,3
+2026-10-02,Hawaiana,10.5,4
+2026-10-02,Cuatro quesos,12.5,1
+2026-10-03,Barbacoa,12.0,3
+2026-10-03,Hawaiana,10.5,2
+2026-10-03,Margarita,9.5,2
+2026-10-03,Hawaiana,10.5,4
+2026-10-03,Margarita,9.5,2
+2026-10-03,Margarita,9.5,2
+2026-10-03,Cuatro quesos,12.5,3
+2026-10-03,Barbacoa,12.0,1
+2026-10-03,Hawaiana,10.5,2
+2026-10-03,Barbacoa,12.0,3
+2026-10-03,Cuatro quesos,12.5,4
+2026-10-03,Margarita,9.5,2
+2026-10-03,Hawaiana,10.5,3
+2026-10-03,Barbacoa,12.0,3
+2026-10-03,Cuatro quesos,12.5,2
+2026-10-03,Margarita,9.5,1
+2026-10-03,Pepperoni,11.0,4
+2026-10-04,Barbacoa,12.0,1
+2026-10-04,Cuatro quesos,12.5,3
+2026-10-04,Barbacoa,12.0,2
+2026-10-04,Hawaiana,10.5,3
+2026-10-04,Barbacoa,12.0,2
+2026-10-04,Margarita,9.5,2
+2026-10-04,Margarita,9.5,4
+2026-10-04,Pepperoni,11.0,4
+2026-10-04,Margarita,9.5,3
+2026-10-04,Cuatro quesos,12.5,1
+2026-10-04,Hawaiana,10.5,3
+2026-10-04,Cuatro quesos,12.5,2
+2026-10-04,Pepperoni,11.0,3
+2026-10-04,Hawaiana,10.5,2
+2026-10-04,Margarita,9.5,2
+2026-10-04,Pepperoni,11.0,2
+2026-10-04,Barbacoa,12.0,1
+2026-10-04,Cuatro quesos,12.5,3
+2026-10-04,Barbacoa,12.0,2
+2026-10-04,Hawaiana,10.5,1
+2026-10-04,Margarita,9.5,3
+2026-10-04,Barbacoa,12.0,4
+2026-10-04,Hawaiana,10.5,4
+2026-10-04,Barbacoa,12.0,1
+2026-10-04,Pepperoni,11.0,3
+2026-10-04,Margarita,9.5,4
+2026-10-04,Barbacoa,12.0,3
+2026-10-04,Pepperoni,11.0,2
+2026-10-04,Pepperoni,11.0,4
+2026-10-04,Hawaiana,10.5,1
+2026-10-04,Margarita,9.5,2
+2026-10-05,Pepperoni,11.0,2
+2026-10-05,Cuatro quesos,12.5,2
+2026-10-05,Cuatro quesos,12.5,3
+2026-10-05,Margarita,9.5,3
+2026-10-05,Pepperoni,11.0,3
+2026-10-05,Pepperoni,11.0,3
+2026-10-05,Hawaiana,10.5,1
+2026-10-05,Hawaiana,10.5,2
+2026-10-05,Hawaiana,10.5,2
+2026-10-05,Pepperoni,11.0,3
+2026-10-05,Hawaiana,10.5,1
+2026-10-05,Margarita,9.5,1
+2026-10-05,Margarita,9.5,3
+2026-10-05,Pepperoni,11.0,4
+2026-10-05,Hawaiana,10.5,1
+2026-10-05,Barbacoa,12.0,3
+2026-10-05,Cuatro quesos,12.5,4
+2026-10-05,Pepperoni,11.0,4
+2026-10-05,Cuatro quesos,12.5,4
+2026-10-05,Margarita,9.5,1
+2026-10-05,Pepperoni,11.0,4
+2026-10-05,Barbacoa,12.0,4
+2026-10-05,Barbacoa,12.0,2
+2026-10-05,Cuatro quesos,12.5,2
+2026-10-06,Cuatro quesos,12.5,3
+2026-10-06,Barbacoa,12.0,2
+2026-10-06,Cuatro quesos,12.5,1
+2026-10-06,Cuatro quesos,12.5,2
+2026-10-06,Barbacoa,12.0,1
+2026-10-06,Cuatro quesos,12.5,4
+2026-10-06,Pepperoni,11.0,2
+2026-10-06,Margarita,9.5,1
+2026-10-06,Cuatro quesos,12.5,4
+2026-10-06,Hawaiana,10.5,4
+2026-10-06,Pepperoni,11.0,2
+2026-10-06,Cuatro quesos,12.5,3
+2026-10-06,Pepperoni,11.0,2
+2026-10-06,Barbacoa,12.0,4
+2026-10-06,Barbacoa,12.0,3
+2026-10-06,Barbacoa,12.0,1
+2026-10-06,Margarita,9.5,4
+2026-10-06,Hawaiana,10.5,4
+2026-10-06,Pepperoni,11.0,2
+2026-10-06,Hawaiana,10.5,3
+2026-10-06,Margarita,9.5,1
+2026-10-06,Cuatro quesos,12.5,4
+2026-10-06,Hawaiana,10.5,4
+2026-10-06,Cuatro quesos,12.5,1
+2026-10-06,Margarita,9.5,4
